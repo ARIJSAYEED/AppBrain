@@ -1,0 +1,274 @@
+[
+  {
+    "image": "https://i.ibb.co.com/pjvkJnh7/1.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 1,
+    "description": "TikTok is the world's leading short-form video platform that allows users to create, watch, and share entertaining clips within seconds. With a vast range of music, filters, and effects, creators can express their creativity and connect with a global audience. The app's algorithm ensures personalized content tailored to your interests, making every scroll engaging and fun.\n\nTikTok offers easy-to-use editing tools, trending challenges, and duet features that encourage collaboration and discovery. Whether you're showcasing talents, sharing stories, or exploring viral trends, TikTok provides a creative space for everyone.\n\nDesigned for smooth performance and accessibility, TikTok ensures high-quality playback, intuitive navigation, and a seamless experience on both Android and iOS devices.",
+    "size": 71,
+    "reviews": 65915,
+    "ratingAvg": 4.2,
+    "downloads": "773M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3295
+      },
+      {
+        "name": "2 star",
+        "count": 4614
+      },
+      {
+        "name": "3 star",
+        "count": 9887
+      },
+      {
+        "name": "4 star",
+        "count": 16478
+      },
+      {
+        "name": "5 star",
+        "count": 31639
+      }
+    ],
+    "shortDescription": "Create, watch, and share short videos worldwide."
+  },
+  {
+    "image": "https://i.ibb.co.com/6fjP6Kb/2.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Instagram is a social media app that connects people through photos, videos, and stories. It allows users to share life moments, explore global trends, and interact with communities using likes, comments, and messages. With Reels and IGTV, users can create engaging video content while maintaining a stylish and aesthetic profile.\n\nThe app offers creative editing tools, filters, and stickers for personalization. Instagram also supports business accounts, allowing brands and creators to reach audiences through posts, ads, and insights.\n\nBuilt for connection and creativity, Instagram is optimized for smooth scrolling, high-quality media sharing, and secure social interaction on both Android and iOS devices.",
+    "size": 94,
+    "reviews": 53880,
+    "ratingAvg": 4.0,
+    "downloads": "759M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2694
+      },
+      {
+        "name": "2 star",
+        "count": 3771
+      },
+      {
+        "name": "3 star",
+        "count": 8082
+      },
+      {
+        "name": "4 star",
+        "count": 13470
+      },
+      {
+        "name": "5 star",
+        "count": 25862
+      }
+    ],
+    "shortDescription": "Share photos, reels, and connect with friends globally."
+  },
+  {
+    "image": "https://i.ibb.co.com/fYk4WrF5/3.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Facebook is a social networking platform that helps you connect and share with people around the world. Users can post updates, photos, and videos, join groups, follow pages, and stay updated with news and events. It's a hub for communities, businesses, and individuals to communicate and grow.\n\nThe app integrates Messenger for instant communication, Marketplace for buying and selling, and Watch for video streaming — all in one place.\n\nOptimized for reliability and accessibility, Facebook ensures smooth performance, secure login, and an intuitive interface across Android and iOS devices.",
+    "size": 100,
+    "reviews": 44553,
+    "ratingAvg": 4.6,
+    "downloads": "571M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2227
+      },
+      {
+        "name": "2 star",
+        "count": 3118
+      },
+      {
+        "name": "3 star",
+        "count": 6682
+      },
+      {
+        "name": "4 star",
+        "count": 11138
+      },
+      {
+        "name": "5 star",
+        "count": 21385
+      }
+    ],
+    "shortDescription": "Connect with friends, share updates, and explore communities."
+  },
+  {
+    "image": "https://i.ibb.co.com/s9SN566j/4.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 4,
+    "description": "WhatsApp Messenger is a fast, simple, and secure communication app that lets you send messages, make calls, and share media worldwide for free. It uses end-to-end encryption to keep your chats and calls private and secure.\n\nThe app allows group chats, voice and video calls, and easy media sharing — even in low network areas. You can also use WhatsApp Web to stay connected on desktop.\n\nWith a clean interface and smooth performance, WhatsApp ensures reliable global communication for individuals and businesses on Android and iOS platforms.",
+    "size": 56,
+    "reviews": 15032,
+    "ratingAvg": 4.4,
+    "downloads": "527M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 751
+      },
+      {
+        "name": "2 star",
+        "count": 1052
+      },
+      {
+        "name": "3 star",
+        "count": 2254
+      },
+      {
+        "name": "4 star",
+        "count": 3758
+      },
+      {
+        "name": "5 star",
+        "count": 7215
+      }
+    ],
+    "shortDescription": "Fast, simple, and secure messaging across the world."
+  },
+  {
+    "image": "https://i.ibb.co.com/FLcTTGZn/5.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 5,
+    "description": "Telegram is a cloud-based messaging app that emphasizes speed, privacy, and freedom. It allows users to send messages, photos, videos, and files of any type, as well as create channels and large groups with thousands of members.\n\nTelegram supports secret chats with self-destructing messages, bots for automation, and cloud synchronization for seamless use across devices. It's built with strong encryption and open-source transparency.\n\nWhether for personal or professional communication, Telegram provides a secure, fast, and customizable messaging experience across all platforms.",
+    "size": 31,
+    "reviews": 33130,
+    "ratingAvg": 4.2,
+    "downloads": "409M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1656
+      },
+      {
+        "name": "2 star",
+        "count": 2319
+      },
+      {
+        "name": "3 star",
+        "count": 4969
+      },
+      {
+        "name": "4 star",
+        "count": 8282
+      },
+      {
+        "name": "5 star",
+        "count": 15902
+      }
+    ],
+    "shortDescription": "Cloud-based instant messaging and file sharing app."
+  },
+  {
+    "image": "https://i.ibb.co.com/1Yd57vJM/6.png",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 6,
+    "description": "CapCut is an all-in-one video editing app that helps you create stunning videos effortlessly. It offers powerful editing tools like trimming, transitions, filters, text overlays, and music synchronization. With AI-powered effects, CapCut makes professional-quality video creation simple and fun.\n\nUsers can export videos in high resolution and share them directly to social media platforms like TikTok, YouTube, and Instagram.\n\nDesigned for creators of all skill levels, CapCut delivers smooth performance, creative freedom, and intuitive controls across Android and iOS devices.",
+    "size": 34,
+    "reviews": 37506,
+    "ratingAvg": 4.9,
+    "downloads": "361M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1875
+      },
+      {
+        "name": "2 star",
+        "count": 2625
+      },
+      {
+        "name": "3 star",
+        "count": 5625
+      },
+      {
+        "name": "4 star",
+        "count": 9376
+      },
+      {
+        "name": "5 star",
+        "count": 18002
+      }
+    ],
+    "shortDescription": "Edit videos with music, filters, and AI effects."
+  },
+  {
+    "image": "https://i.ibb.co.com/kgzPmZy5/7.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Snapchat is a multimedia messaging app that lets you instantly share photos, videos, and messages that disappear after viewing. It's designed for real-time communication and fun visual storytelling using filters, Bitmoji, and AR Lenses.\n\nThe app includes Stories, Spotlight, and Snap Map features that let users explore what's happening globally or nearby. With privacy at its core, Snapchat ensures personal and secure sharing experiences.\n\nPerfect for creative and casual expression, Snapchat provides fast, engaging, and private communication on Android and iOS devices.",
+    "size": 66,
+    "reviews": 29063,
+    "ratingAvg": 4.5,
+    "downloads": "302M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1453
+      },
+      {
+        "name": "2 star",
+        "count": 2034
+      },
+      {
+        "name": "3 star",
+        "count": 4359
+      },
+      {
+        "name": "4 star",
+        "count": 7265
+      },
+      {
+        "name": "5 star",
+        "count": 13950
+      }
+    ],
+    "shortDescription": "Send photos and videos instantly and stay connected with friends."
+  },
+  {
+    "image": "https://i.ibb.co.com/b4m5Hxw/8.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 8,
+    "description": "Spotify is the world's leading music and podcast streaming platform that lets you discover millions of tracks and playlists across every genre. It offers personalized recommendations, offline downloads, and seamless cross-device playback.\n\nUsers can create playlists, follow artists, and enjoy curated mixes based on mood or activity. Spotify also provides exclusive podcasts and live sessions for a richer listening experience.\n\nWith a clean design and adaptive sound quality, Spotify delivers immersive streaming for both free and premium users on Android and iOS.",
+    "size": 30,
+    "reviews": 10117,
+    "ratingAvg": 4.8,
+    "downloads": "239M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 505
+      },
+      {
+        "name": "2 star",
+        "count": 708
+      },
+      {
+        "name": "3 star",
+        "count": 1517
+      },
+      {
+        "name": "4 star",
+        "count": 2529
+      },
+      {
+        "name": "5 star",
+        "count": 4856
+      }
+    ],
+    "shortDescription": "Stream millions of songs and podcasts for free."
+  }
+]

@@ -14,7 +14,7 @@ const ThirdSection = ({data}) => {
                     data.map(apps=><Apps key={apps.id} apps={apps}></Apps>)
                 }
             </div>
-            <div className='text-center'>
+            <div className='text-center hover:scale-105 duration-200'>
                 <Link className='px-10 py-3.5 rounded-sm bg-[#632EE3] text-white text-[16px] font-semibold' to='/App'>Show All</Link>
             </div>
         </div>

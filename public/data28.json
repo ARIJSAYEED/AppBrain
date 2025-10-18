@@ -1,0 +1,954 @@
+[
+  {
+    "image": "https://i.ibb.co.com/pjvkJnh7/1.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 1,
+    "description": "TikTok is the world's leading short-form video platform that allows users to create, watch, and share entertaining clips within seconds. With a vast range of music, filters, and effects, creators can express their creativity and connect with a global audience. The app's algorithm ensures personalized content tailored to your interests, making every scroll engaging and fun.\n\nTikTok offers easy-to-use editing tools, trending challenges, and duet features that encourage collaboration and discovery. Whether you're showcasing talents, sharing stories, or exploring viral trends, TikTok provides a creative space for everyone.\n\nDesigned for smooth performance and accessibility, TikTok ensures high-quality playback, intuitive navigation, and a seamless experience on both Android and iOS devices.",
+    "size": 71,
+    "reviews": 65915,
+    "ratingAvg": 4.2,
+    "downloads": "773M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3295
+      },
+      {
+        "name": "2 star",
+        "count": 4614
+      },
+      {
+        "name": "3 star",
+        "count": 9887
+      },
+      {
+        "name": "4 star",
+        "count": 16478
+      },
+      {
+        "name": "5 star",
+        "count": 31639
+      }
+    ],
+    "shortDescription": "Create, watch, and share short videos worldwide."
+  },
+  {
+    "image": "https://i.ibb.co.com/6fjP6Kb/2.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Instagram is a social media app that connects people through photos, videos, and stories. It allows users to share life moments, explore global trends, and interact with communities using likes, comments, and messages. With Reels and IGTV, users can create engaging video content while maintaining a stylish and aesthetic profile.\n\nThe app offers creative editing tools, filters, and stickers for personalization. Instagram also supports business accounts, allowing brands and creators to reach audiences through posts, ads, and insights.\n\nBuilt for connection and creativity, Instagram is optimized for smooth scrolling, high-quality media sharing, and secure social interaction on both Android and iOS devices.",
+    "size": 94,
+    "reviews": 53880,
+    "ratingAvg": 4.0,
+    "downloads": "759M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2694
+      },
+      {
+        "name": "2 star",
+        "count": 3771
+      },
+      {
+        "name": "3 star",
+        "count": 8082
+      },
+      {
+        "name": "4 star",
+        "count": 13470
+      },
+      {
+        "name": "5 star",
+        "count": 25862
+      }
+    ],
+    "shortDescription": "Share photos, reels, and connect with friends globally."
+  },
+  {
+    "image": "https://i.ibb.co.com/fYk4WrF5/3.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Facebook is a social networking platform that helps you connect and share with people around the world. Users can post updates, photos, and videos, join groups, follow pages, and stay updated with news and events. It's a hub for communities, businesses, and individuals to communicate and grow.\n\nThe app integrates Messenger for instant communication, Marketplace for buying and selling, and Watch for video streaming — all in one place.\n\nOptimized for reliability and accessibility, Facebook ensures smooth performance, secure login, and an intuitive interface across Android and iOS devices.",
+    "size": 100,
+    "reviews": 44553,
+    "ratingAvg": 4.6,
+    "downloads": "571M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2227
+      },
+      {
+        "name": "2 star",
+        "count": 3118
+      },
+      {
+        "name": "3 star",
+        "count": 6682
+      },
+      {
+        "name": "4 star",
+        "count": 11138
+      },
+      {
+        "name": "5 star",
+        "count": 21385
+      }
+    ],
+    "shortDescription": "Connect with friends, share updates, and explore communities."
+  },
+  {
+    "image": "https://i.ibb.co.com/s9SN566j/4.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 4,
+    "description": "WhatsApp Messenger is a fast, simple, and secure communication app that lets you send messages, make calls, and share media worldwide for free. It uses end-to-end encryption to keep your chats and calls private and secure.\n\nThe app allows group chats, voice and video calls, and easy media sharing — even in low network areas. You can also use WhatsApp Web to stay connected on desktop.\n\nWith a clean interface and smooth performance, WhatsApp ensures reliable global communication for individuals and businesses on Android and iOS platforms.",
+    "size": 56,
+    "reviews": 15032,
+    "ratingAvg": 4.4,
+    "downloads": "527M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 751
+      },
+      {
+        "name": "2 star",
+        "count": 1052
+      },
+      {
+        "name": "3 star",
+        "count": 2254
+      },
+      {
+        "name": "4 star",
+        "count": 3758
+      },
+      {
+        "name": "5 star",
+        "count": 7215
+      }
+    ],
+    "shortDescription": "Fast, simple, and secure messaging across the world."
+  },
+  {
+    "image": "https://i.ibb.co.com/FLcTTGZn/5.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 5,
+    "description": "Telegram is a cloud-based messaging app that emphasizes speed, privacy, and freedom. It allows users to send messages, photos, videos, and files of any type, as well as create channels and large groups with thousands of members.\n\nTelegram supports secret chats with self-destructing messages, bots for automation, and cloud synchronization for seamless use across devices. It's built with strong encryption and open-source transparency.\n\nWhether for personal or professional communication, Telegram provides a secure, fast, and customizable messaging experience across all platforms.",
+    "size": 31,
+    "reviews": 33130,
+    "ratingAvg": 4.2,
+    "downloads": "409M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1656
+      },
+      {
+        "name": "2 star",
+        "count": 2319
+      },
+      {
+        "name": "3 star",
+        "count": 4969
+      },
+      {
+        "name": "4 star",
+        "count": 8282
+      },
+      {
+        "name": "5 star",
+        "count": 15902
+      }
+    ],
+    "shortDescription": "Cloud-based instant messaging and file sharing app."
+  },
+  {
+    "image": "https://i.ibb.co.com/1Yd57vJM/6.png",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 6,
+    "description": "CapCut is an all-in-one video editing app that helps you create stunning videos effortlessly. It offers powerful editing tools like trimming, transitions, filters, text overlays, and music synchronization. With AI-powered effects, CapCut makes professional-quality video creation simple and fun.\n\nUsers can export videos in high resolution and share them directly to social media platforms like TikTok, YouTube, and Instagram.\n\nDesigned for creators of all skill levels, CapCut delivers smooth performance, creative freedom, and intuitive controls across Android and iOS devices.",
+    "size": 34,
+    "reviews": 37506,
+    "ratingAvg": 4.9,
+    "downloads": "361M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1875
+      },
+      {
+        "name": "2 star",
+        "count": 2625
+      },
+      {
+        "name": "3 star",
+        "count": 5625
+      },
+      {
+        "name": "4 star",
+        "count": 9376
+      },
+      {
+        "name": "5 star",
+        "count": 18002
+      }
+    ],
+    "shortDescription": "Edit videos with music, filters, and AI effects."
+  },
+  {
+    "image": "https://i.ibb.co.com/kgzPmZy5/7.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Snapchat is a multimedia messaging app that lets you instantly share photos, videos, and messages that disappear after viewing. It's designed for real-time communication and fun visual storytelling using filters, Bitmoji, and AR Lenses.\n\nThe app includes Stories, Spotlight, and Snap Map features that let users explore what's happening globally or nearby. With privacy at its core, Snapchat ensures personal and secure sharing experiences.\n\nPerfect for creative and casual expression, Snapchat provides fast, engaging, and private communication on Android and iOS devices.",
+    "size": 66,
+    "reviews": 29063,
+    "ratingAvg": 4.5,
+    "downloads": "302M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1453
+      },
+      {
+        "name": "2 star",
+        "count": 2034
+      },
+      {
+        "name": "3 star",
+        "count": 4359
+      },
+      {
+        "name": "4 star",
+        "count": 7265
+      },
+      {
+        "name": "5 star",
+        "count": 13950
+      }
+    ],
+    "shortDescription": "Send photos and videos instantly and stay connected with friends."
+  },
+  {
+    "image": "https://i.ibb.co.com/b4m5Hxw/8.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 8,
+    "description": "Spotify is the world's leading music and podcast streaming platform that lets you discover millions of tracks and playlists across every genre. It offers personalized recommendations, offline downloads, and seamless cross-device playback.\n\nUsers can create playlists, follow artists, and enjoy curated mixes based on mood or activity. Spotify also provides exclusive podcasts and live sessions for a richer listening experience.\n\nWith a clean design and adaptive sound quality, Spotify delivers immersive streaming for both free and premium users on Android and iOS.",
+    "size": 30,
+    "reviews": 10117,
+    "ratingAvg": 4.8,
+    "downloads": "239M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 505
+      },
+      {
+        "name": "2 star",
+        "count": 708
+      },
+      {
+        "name": "3 star",
+        "count": 1517
+      },
+      {
+        "name": "4 star",
+        "count": 2529
+      },
+      {
+        "name": "5 star",
+        "count": 4856
+      }
+    ],
+    "shortDescription": "Stream millions of songs and podcasts for free."
+  },
+  {
+    "image": "https://i.ibb.co.com/Y46XbmDB/9.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "YouTube is the world's leading video-sharing platform, offering millions of videos ranging from entertainment, education, music, vlogs, tutorials, and more. Users can watch, upload, and share videos, subscribe to channels, and create playlists tailored to their interests.\n\nThe app supports high-quality streaming, offline viewing, and background playback, with features like Shorts for quick, engaging clips and YouTube Premium for ad-free experiences. It also offers tools for creators to edit and monetize content.\n\nOptimized for performance, YouTube provides a seamless and engaging experience across Android and iOS devices, with intuitive navigation and personalized recommendations.",
+    "size": 71,
+    "reviews": 266666,
+    "ratingAvg": 4.6,
+    "downloads": "800M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 13333
+      },
+      {
+        "name": "2 star",
+        "count": 26666
+      },
+      {
+        "name": "3 star",
+        "count": 39999
+      },
+      {
+        "name": "4 star",
+        "count": 66666
+      },
+      {
+        "name": "5 star",
+        "count": 119999
+      }
+    ],
+    "shortDescription": "Watch, upload, and share videos from around the world."
+  },
+  {
+    "image": "https://i.ibb.co.com/kzGtQZS/10.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Netflix is a leading streaming service offering a vast library of movies, TV shows, documentaries, and original content across genres. Users can watch on-demand content with personalized recommendations and create multiple profiles for a tailored experience.\n\nThe app supports offline downloads, high-definition streaming, and seamless playback across devices. With intuitive navigation and parental controls, Netflix ensures a family-friendly and engaging viewing experience.\n\nOptimized for performance, Netflix delivers reliable streaming and a user-friendly interface on both Android and iOS platforms.",
+    "size": 71,
+    "reviews": 166666,
+    "ratingAvg": 3.8,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8333
+      },
+      {
+        "name": "2 star",
+        "count": 16666
+      },
+      {
+        "name": "3 star",
+        "count": 24999
+      },
+      {
+        "name": "4 star",
+        "count": 41666
+      },
+      {
+        "name": "5 star",
+        "count": 74999
+      }
+    ],
+    "shortDescription": "Watch movies and TV shows anytime, anywhere."
+  },
+  {
+    "image": "https://i.ibb.co.com/hJjCNgPY/11.png",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 11,
+    "description": "Twitter (X) is a global social media platform where users can share short posts, images, videos, and links to engage in real-time conversations. It’s a hub for breaking news, trending topics, and connecting with communities, influencers, and brands.\n\nThe app supports features like Spaces for live audio discussions, direct messaging, and customizable feeds to follow your interests. With a focus on free expression, it fosters open dialogue and quick updates.\n\nDesigned for speed and accessibility, Twitter (X) ensures a smooth experience with secure login and intuitive navigation on Android and iOS devices.",
+    "size": 71,
+    "reviews": 150000,
+    "ratingAvg": 4.0,
+    "downloads": "450M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 7500
+      },
+      {
+        "name": "2 star",
+        "count": 15000
+      },
+      {
+        "name": "3 star",
+        "count": 22500
+      },
+      {
+        "name": "4 star",
+        "count": 37500
+      },
+      {
+        "name": "5 star",
+        "count": 67500
+      }
+    ],
+    "shortDescription": "Join the conversation, follow news, and share your thoughts."
+  },
+  {
+    "image": "https://i.ibb.co.com/HT1G94kF/12.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Google Maps is a leading navigation app that provides real-time GPS directions, traffic updates, and detailed maps for driving, walking, cycling, or public transit. Users can explore places, find businesses, and get personalized recommendations for nearby locations.\n\nThe app offers features like offline maps, Street View, and real-time location sharing. It integrates with Google services for seamless trip planning and location-based insights.\n\nOptimized for accuracy and performance, Google Maps ensures reliable navigation and an intuitive interface across Android and iOS devices.",
+    "size": 71,
+    "reviews": 200000,
+    "ratingAvg": 4.2,
+    "downloads": "600M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10000
+      },
+      {
+        "name": "2 star",
+        "count": 20000
+      },
+      {
+        "name": "3 star",
+        "count": 30000
+      },
+      {
+        "name": "4 star",
+        "count": 50000
+      },
+      {
+        "name": "5 star",
+        "count": 90000
+      }
+    ],
+    "shortDescription": "Navigate and explore places with real-time GPS and traffic updates."
+  },
+  {
+    "image": "https://i.ibb.co.com/q3W7x1nW/13.png",
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "id": 13,
+    "description": "PUBG Mobile is a battle royale game that delivers intense, fast-paced survival gameplay. Players drop into a map, scavenge for weapons, and compete to be the last one standing in solo, duo, or squad modes.\n\nThe app features stunning graphics, realistic combat mechanics, and diverse maps with dynamic environments. It includes team-based voice chat, regular updates, and seasonal events for an engaging experience.\n\nOptimized for mobile, PUBG Mobile ensures smooth performance and responsive controls on Android and iOS devices, perfect for competitive gaming on the go.",
+    "size": 71,
+    "reviews": 233333,
+    "ratingAvg": 4.4,
+    "downloads": "700M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 11666
+      },
+      {
+        "name": "2 star",
+        "count": 23333
+      },
+      {
+        "name": "3 star",
+        "count": 34999
+      },
+      {
+        "name": "4 star",
+        "count": 58333
+      },
+      {
+        "name": "5 star",
+        "count": 104999
+      }
+    ],
+    "shortDescription": "Battle royale game with intense survival gameplay."
+  },
+  {
+    "image": "https://i.ibb.co.com/TMps3Z7X/14.png",
+    "title": "Free Fire",
+    "companyName": "Garena International",
+    "id": 14,
+    "description": "Free Fire is a fast-paced survival shooter game where players compete in battle royale matches to be the last one standing. With 10-minute matches, it offers quick and thrilling gameplay in solo, duo, or squad modes.\n\nThe app features vibrant graphics, customizable characters, and voice chat for team coordination. Regular events and updates keep the game fresh and engaging.\n\nDesigned for mobile, Free Fire delivers smooth performance and intuitive controls, optimized for Android and iOS devices, ideal for action-packed gaming.",
+    "size": 71,
+    "reviews": 216666,
+    "ratingAvg": 4.6,
+    "downloads": "650M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10833
+      },
+      {
+        "name": "2 star",
+        "count": 21666
+      },
+      {
+        "name": "3 star",
+        "count": 32499
+      },
+      {
+        "name": "4 star",
+        "count": 54166
+      },
+      {
+        "name": "5 star",
+        "count": 97499
+      }
+    ],
+    "shortDescription": "Fast-paced survival shooter game on mobile."
+  },
+  {
+    "image": "https://i.ibb.co.com/xKXSPMD1/15.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 15,
+    "description": "Canva is a versatile graphic design app that empowers users to create stunning visuals like posters, presentations, social media graphics, and videos. It offers thousands of templates, fonts, and design elements for professional-quality results.\n\nWith intuitive drag-and-drop tools and collaboration features, Canva suits beginners and professionals alike. Users can save and share designs directly to social platforms or print them.\n\nOptimized for ease of use, Canva ensures smooth performance and a seamless creative experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 133333,
+    "ratingAvg": 3.8,
+    "downloads": "400M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6666
+      },
+      {
+        "name": "2 star",
+        "count": 13333
+      },
+      {
+        "name": "3 star",
+        "count": 19999
+      },
+      {
+        "name": "4 star",
+        "count": 33333
+      },
+      {
+        "name": "5 star",
+        "count": 59999
+      }
+    ],
+    "shortDescription": "Design graphics, videos, and presentations easily."
+  },
+  {
+    "image": "https://i.ibb.co.com/v4hqspY6/16.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "id": 16,
+    "description": "LinkedIn is a professional networking platform that connects users with job opportunities, industry news, and professional communities. Users can build profiles, showcase skills, and connect with colleagues, recruiters, and businesses.\n\nThe app offers job search tools, personalized feed updates, and learning resources through LinkedIn Learning. It supports messaging and group discussions for collaboration.\n\nDesigned for career growth, LinkedIn ensures a secure and intuitive experience with seamless performance on Android and iOS devices.",
+    "size": 71,
+    "reviews": 100000,
+    "ratingAvg": 4.0,
+    "downloads": "300M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000
+      },
+      {
+        "name": "2 star",
+        "count": 10000
+      },
+      {
+        "name": "3 star",
+        "count": 15000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 45000
+      }
+    ],
+    "shortDescription": "Build your professional network and find job opportunities."
+  },
+  {
+    "image": "https://i.ibb.co.com/qLvkGhFR/17.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 17,
+    "description": "Zoom is a leading video conferencing app that enables seamless virtual meetings, webinars, and team collaboration. Users can host or join high-quality video and audio calls, share screens, and use interactive features like whiteboards and chat.\n\nWith robust security features and cross-platform support, Zoom is ideal for remote work, education, and social gatherings. It offers reliable performance even in low-bandwidth conditions.\n\nOptimized for ease of use, Zoom ensures a smooth and secure experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 133333,
+    "ratingAvg": 4.2,
+    "downloads": "400M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6666
+      },
+      {
+        "name": "2 star",
+        "count": 13333
+      },
+      {
+        "name": "3 star",
+        "count": 19999
+      },
+      {
+        "name": "4 star",
+        "count": 33333
+      },
+      {
+        "name": "5 star",
+        "count": 59999
+      }
+    ],
+    "shortDescription": "Join video meetings, webinars, and calls easily."
+  },
+  {
+    "image": "https://i.ibb.co.com/5hChCzd1/18.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Gmail is a powerful email app that offers a fast, secure, and organized way to manage your emails. Integrated with Google Workspace, it supports multiple accounts, real-time notifications, and advanced search capabilities.\n\nUsers can schedule emails, use smart replies, and access Google Drive and Calendar seamlessly. With robust spam protection and offline support, Gmail ensures reliable communication.\n\nOptimized for productivity, Gmail provides a clean interface and smooth performance on Android and iOS devices.",
+    "size": 71,
+    "reviews": 400000,
+    "ratingAvg": 4.4,
+    "downloads": "1200M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20000
+      },
+      {
+        "name": "2 star",
+        "count": 40000
+      },
+      {
+        "name": "3 star",
+        "count": 60000
+      },
+      {
+        "name": "4 star",
+        "count": 100000
+      },
+      {
+        "name": "5 star",
+        "count": 180000
+      }
+    ],
+    "shortDescription": "Email app that connects you with Google Workspace."
+  },
+  {
+    "image": "https://i.ibb.co.com/HD9Sbhg5/19.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 19,
+    "description": "Google Drive is a cloud storage service that lets users store, share, and access files securely from anywhere. It supports documents, photos, videos, and more, with seamless integration with Google Workspace apps like Docs, Sheets, and Slides.\n\nUsers can collaborate in real-time, use offline access, and organize files with ease. Google Drive offers robust security and search features for efficient file management.\n\nDesigned for productivity, it ensures reliable performance and a user-friendly interface on Android and iOS devices.",
+    "size": 71,
+    "reviews": 300000,
+    "ratingAvg": 4.6,
+    "downloads": "900M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15000
+      },
+      {
+        "name": "2 star",
+        "count": 30000
+      },
+      {
+        "name": "3 star",
+        "count": 45000
+      },
+      {
+        "name": "4 star",
+        "count": 75000
+      },
+      {
+        "name": "5 star",
+        "count": 135000
+      }
+    ],
+    "shortDescription": "Cloud storage and file sharing service from Google."
+  },
+  {
+    "image": "https://i.ibb.co.com/dsX1Gp8r/20.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "Google Chrome is a fast, secure, and versatile web browser designed for seamless browsing. It offers features like tab syncing across devices, built-in Google Translate, and a customizable homepage with quick access to bookmarks and downloads.\n\nWith robust security features like Safe Browsing and automatic updates, Chrome protects users from malicious sites. It also supports extensions for enhanced functionality.\n\nOptimized for speed and efficiency, Chrome delivers a smooth and reliable browsing experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 833333,
+    "ratingAvg": 3.8,
+    "downloads": "2500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 41666
+      },
+      {
+        "name": "2 star",
+        "count": 83333
+      },
+      {
+        "name": "3 star",
+        "count": 124999
+      },
+      {
+        "name": "4 star",
+        "count": 208333
+      },
+      {
+        "name": "5 star",
+        "count": 374999
+      }
+    ],
+    "shortDescription": "Fast, secure, and easy-to-use web browser for Android."
+  },
+  {
+    "image": "https://i.ibb.co.com/WvFjm26f/21.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 21,
+    "description": "Discord is a communication app designed for gamers and communities, offering text, voice, and video chat. Users can join servers, create channels, and connect with friends or like-minded individuals worldwide.\n\nThe app supports bots for automation, screen sharing, and seamless integration with gaming platforms. With customizable notifications and low-latency voice calls, it’s ideal for real-time collaboration.\n\nOptimized for performance, Discord ensures a smooth and secure experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 166666,
+    "ratingAvg": 4.0,
+    "downloads": "500M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8333
+      },
+      {
+        "name": "2 star",
+        "count": 16666
+      },
+      {
+        "name": "3 star",
+        "count": 24999
+      },
+      {
+        "name": "4 star",
+        "count": 41666
+      },
+      {
+        "name": "5 star",
+        "count": 74999
+      }
+    ],
+    "shortDescription": "Chat and voice app for communities and gamers."
+  },
+  {
+    "image": "https://i.ibb.co.com/LdBPC9Rq/22.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 22,
+    "description": "Microsoft Teams is a collaboration platform that enables team communication, video meetings, and file sharing. It integrates with Microsoft 365, offering tools for project management, document collaboration, and seamless workflows.\n\nUsers can host meetings, chat in channels, and use apps for task automation. With robust security and cross-platform support, it’s ideal for remote work and team coordination.\n\nOptimized for productivity, Microsoft Teams ensures a reliable and intuitive experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 133333,
+    "ratingAvg": 4.2,
+    "downloads": "400M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6666
+      },
+      {
+        "name": "2 star",
+        "count": 13333
+      },
+      {
+        "name": "3 star",
+        "count": 19999
+      },
+      {
+        "name": "4 star",
+        "count": 33333
+      },
+      {
+        "name": "5 star",
+        "count": 59999
+      }
+    ],
+    "shortDescription": "Collaborate with your team and manage projects online."
+  },
+  {
+    "image": "https://i.ibb.co.com/3yB1ztVb/23.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 23,
+    "description": "Pinterest is a visual discovery app that inspires users with ideas for fashion, home decor, recipes, and more. Users can browse, save, and organize pins into boards to plan projects or explore creative ideas.\n\nThe app offers personalized recommendations, search tools, and sharing features to connect with communities. It’s ideal for inspiration and creativity.\n\nOptimized for ease of use, Pinterest delivers a smooth and engaging experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 116666,
+    "ratingAvg": 4.4,
+    "downloads": "350M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5833
+      },
+      {
+        "name": "2 star",
+        "count": 11666
+      },
+      {
+        "name": "3 star",
+        "count": 17499
+      },
+      {
+        "name": "4 star",
+        "count": 29166
+      },
+      {
+        "name": "5 star",
+        "count": 52499
+      }
+    ],
+    "shortDescription": "Discover inspiration for fashion, design, and recipes."
+  },
+  {
+    "image": "https://i.ibb.co.com/vC707t4N/24.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 24,
+    "description": "Reddit is a social platform where users join communities to discuss topics, share content, and engage in conversations. With thousands of subreddits, it covers everything from news and gaming to hobbies and memes.\n\nThe app supports posting, commenting, and upvoting, with personalized feeds based on user interests. It fosters open discussions and community-driven content.\n\nOptimized for engagement, Reddit offers a seamless and intuitive experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 100000,
+    "ratingAvg": 4.6,
+    "downloads": "300M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000
+      },
+      {
+        "name": "2 star",
+        "count": 10000
+      },
+      {
+        "name": "3 star",
+        "count": 15000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 45000
+      }
+    ],
+    "shortDescription": "Join discussions and explore trending communities."
+  },
+  {
+    "image": "https://i.ibb.co.com/rG5Wkb0K/25.png",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive, Inc.",
+    "id": 25,
+    "description": "Twitch is a live streaming platform focused on gaming, esports, and creative content. Users can watch live broadcasts, interact with streamers via chat, and stream their own gameplay or creative projects.\n\nThe app supports subscriptions, clips, and personalized recommendations for discovering new channels. It fosters a vibrant community of gamers and creators.\n\nOptimized for real-time engagement, Twitch delivers a smooth and interactive experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 83333,
+    "ratingAvg": 3.8,
+    "downloads": "250M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4166
+      },
+      {
+        "name": "2 star",
+        "count": 8333
+      },
+      {
+        "name": "3 star",
+        "count": 12499
+      },
+      {
+        "name": "4 star",
+        "count": 20833
+      },
+      {
+        "name": "5 star",
+        "count": 37499
+      }
+    ],
+    "shortDescription": "Watch and stream live gaming content."
+  },
+  {
+    "image": "https://i.ibb.co.com/j9LjRdbs/26.png",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe Inc.",
+    "id": 26,
+    "description": "Adobe Photoshop Express is a powerful photo editing app that offers easy-to-use tools for enhancing images. Users can apply filters, adjust colors, crop, and add text or stickers to create stunning visuals.\n\nWith one-tap enhancements and cloud syncing, it’s perfect for quick edits or creative projects. The app supports sharing to social media platforms.\n\nOptimized for performance, Photoshop Express ensures a seamless editing experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 66666,
+    "ratingAvg": 4.0,
+    "downloads": "200M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3333
+      },
+      {
+        "name": "2 star",
+        "count": 6666
+      },
+      {
+        "name": "3 star",
+        "count": 9999
+      },
+      {
+        "name": "4 star",
+        "count": 16666
+      },
+      {
+        "name": "5 star",
+        "count": 29999
+      }
+    ],
+    "shortDescription": "Edit and enhance photos with easy-to-use tools."
+  },
+  {
+    "image": "https://i.ibb.co.com/PzW5vF90/27.png",
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe Inc.",
+    "id": 27,
+    "description": "Adobe Lightroom is a professional photo editing and organization app designed for photographers. It offers advanced tools for adjusting exposure, colors, and details, along with presets for quick enhancements.\n\nUsers can organize photos in albums, sync edits across devices, and share creations directly. With AI-powered features, it simplifies complex edits.\n\nOptimized for precision, Lightroom ensures a smooth and powerful editing experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 60000,
+    "ratingAvg": 4.2,
+    "downloads": "180M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3000
+      },
+      {
+        "name": "2 star",
+        "count": 6000
+      },
+      {
+        "name": "3 star",
+        "count": 9000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 27000
+      }
+    ],
+    "shortDescription": "Professional photo editing and organization app."
+  },
+  {
+    "image": "https://i.ibb.co.com/LdKvZxVq/28.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 28,
+    "description": "Dropbox is a cloud storage app that allows users to store, share, and access files securely from any device. It supports document scanning, file organization, and seamless collaboration with team members.\n\nWith offline access and robust security features, Dropbox ensures your files are safe and accessible. It integrates with popular productivity tools for efficient workflows.\n\nOptimized for reliability, Dropbox delivers a user-friendly and secure experience on Android and iOS devices.",
+    "size": 71,
+    "reviews": 50000,
+    "ratingAvg": 4.4,
+    "downloads": "150M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2500
+      },
+      {
+        "name": "2 star",
+        "count": 5000
+      },
+      {
+        "name": "3 star",
+        "count": 7500
+      },
+      {
+        "name": "4 star",
+        "count": 12500
+      },
+      {
+        "name": "5 star",
+        "count": 22500
+      }
+    ],
+    "shortDescription": "Store and share files securely in the cloud."
+  }
+]
