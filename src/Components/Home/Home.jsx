@@ -4,7 +4,7 @@ import ThirdSection from '../ThirdSection/ThirdSection';
 
 const Home = () => {
     return (
-        <div className='space-y-20'>
+        <div className='bg-neutral-100'>
             <FirstSection></FirstSection>
             <SecondSection></SecondSection>
             <ThirdSection></ThirdSection>

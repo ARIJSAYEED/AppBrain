@@ -7,7 +7,7 @@ import './Navbar.css'
 
 const NavBar = () => {
     return (
-        <div className='sticky top-0 z-10 mb-20'>
+        <div className='sticky top-0 z-10'>
             <div className='flex justify-between px-20 py-5 bg-white border-b-2 border-neutral-200'>
                 <div className='flex gap-1 items-center justify-center'>
                     <Link to='/'>

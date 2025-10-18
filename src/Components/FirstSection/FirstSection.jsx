@@ -5,7 +5,7 @@ import HeroImg from '../../assets/hero.png'
 
 const FirstSection = () => {
     return (
-        <div className='flex flex-col justify-center items-center space-y-10'>
+        <div className='flex flex-col justify-center items-center space-y-10 pt-20'>
             <div>
                 <h1 className='text-7xl font-bold text-center'>We Build<br/><span className='text-[#632EE3]'>Productive</span> Apps</h1>
             </div>
