@@ -1,18 +1,13 @@
-import NavBar from './NavBar/NavBar';
 import FirstSection from '../FirstSection/FirstSection';
 import SecondSection from '../SecondSection/SecondSection';
-import Footer from '../Footer/Footer';
+import ThirdSection from '../ThirdSection/ThirdSection';
 
 const Home = () => {
     return (
-        <div className='max-w-[1600px] mx-auto'>
-            <NavBar></NavBar>
+        <div className='space-y-20'>
             <FirstSection></FirstSection>
             <SecondSection></SecondSection>
-            <div>
-
-            </div>
-            <Footer></Footer>
+            <ThirdSection></ThirdSection>
         </div>
     );
 };

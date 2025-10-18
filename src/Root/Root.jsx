@@ -1,10 +1,14 @@
 import React from 'react';
-import Home from '../Components/Home/Home';
+import { Outlet } from 'react-router';
+import NavBar from '../Components/NavBar/NavBar';
+import Footer from '../Components/Footer/Footer'
 
 const Root = () => {
     return (
-        <div>
-            <Home></Home>
+        <div className='max-w-[1600px] mx-auto'>
+            <NavBar></NavBar>
+            <Outlet></Outlet>
+            <Footer></Footer>
         </div>
     );
 };
