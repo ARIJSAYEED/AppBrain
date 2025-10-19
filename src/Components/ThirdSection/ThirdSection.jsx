@@ -15,7 +15,7 @@ const ThirdSection = ({data}) => {
                 }
             </div>
             <div className='text-center hover:scale-105 duration-200'>
-                <Link className='px-10 py-3.5 rounded-sm bg-[#632EE3] text-white text-[16px] font-semibold' to='/App'>Show All</Link>
+                <Link className='px-10 py-3.5 rounded-sm bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white text-[16px] font-semibold' to='/App'>Show All</Link>
             </div>
         </div>
     );

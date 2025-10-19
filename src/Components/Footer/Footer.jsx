@@ -1,30 +1,23 @@
 import React from 'react';
-
+import Logo from '../../assets/logo.png'
+import { Link } from 'react-router';
 const Footer = () => {
     return (
-        <div>
-            <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10">
-                <nav>
-                    <h6 className="footer-title">Services</h6>
-                    <a className="link link-hover">Branding</a>
-                    <a className="link link-hover">Design</a>
-                    <a className="link link-hover">Marketing</a>
-                    <a className="link link-hover">Advertisement</a>
-                </nav>
-                <nav>
-                    <h6 className="footer-title">Company</h6>
-                    <a className="link link-hover">About us</a>
-                    <a className="link link-hover">Contact</a>
-                    <a className="link link-hover">Jobs</a>
-                    <a className="link link-hover">Press kit</a>
-                </nav>
-                <nav>
-                    <h6 className="footer-title">Legal</h6>
-                    <a className="link link-hover">Terms of use</a>
-                    <a className="link link-hover">Privacy policy</a>
-                    <a className="link link-hover">Cookie policy</a>
-                </nav>
-            </footer>
+        <div className=' px-20 py-10 bg-[#001931] text-white' >
+            <div className='flex justify-between items-center border-b-2 border-neutral-800 pb-5'>
+                <div>
+                    <Link className='flex gap-1 items-center justify-center' to='/'>
+                        <img className='h-10' src={Logo} alt="" />
+                        <h1 className='text-[16px] font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>AppBrain</h1>
+                    </Link>
+                </div>
+                <div >
+                    <h1>Social Links</h1>
+                </div>
+            </div>
+            <div className='mt-5 text-center'>
+                <h1>Copyright © 2025 - All right reserved</h1>
+            </div>
         </div>
     );
 };

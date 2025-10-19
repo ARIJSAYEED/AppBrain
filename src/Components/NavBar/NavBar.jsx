@@ -20,7 +20,7 @@ const NavBar = () => {
                     <NavLink className='text-[16px] font-medium' to='/App'>App</NavLink>
                     <NavLink className='text-[16px] font-medium' to='/Installation'>Installation</NavLink>
                 </div>
-                <a className='flex justify-center items-center gap-2.5 py-3 px-4 rounded-sm bg-[#632EE3] hover:scale-105 duration-200' href="https://github.com/ARIJSAYEED" target='_blank'>
+                <a className='flex justify-center items-center gap-2.5 py-3 px-4 rounded-sm bg-gradient-to-r from-[#632EE3] to-[#9F62F2] hover:scale-105 duration-200' href="https://github.com/ARIJSAYEED" target='_blank'>
                     <img className='h-5' src={GitHubIcon} alt="" />
                     <h1 className='text-[16px] font-semibold text-white'>Contribute</h1>
                 </a>

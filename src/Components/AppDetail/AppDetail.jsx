@@ -39,13 +39,13 @@ const AppDetail = () => {
                         </div>
                     </div>
                     <div className='mt-[30px]'>
-                        <button className='px-5 py-3.5 rounded-sm text-white bg-[#00D390] text-xl font-semibold'>Intall Now ({SingleApp.size} MB)</button>
+                        <button className='px-5 py-3.5 rounded-sm text-white bg-[#00D390] text-xl font-semibold hover:scale-105 duration-200'>Intall Now ({SingleApp.size} MB)</button>
                     </div>
                 </div>
             </div>
             {/* charts */}
             <div className='mt-4 flex justify-center pb-4 border-b-2 border-neutral-300'>
-                <BarChart layout="vertical" width={1600} height={300} data={SingleApp.ratings}>
+                <BarChart layout="vertical" width={1500} height={300} data={SingleApp.ratings}>
                     <Tooltip />
                     <XAxis className='text-lg font-normal text-neutral-500' type="number" dataKey="count" />
                     <YAxis className='text-lg font-normal text-neutral-500' width='auto' type="category" dataKey="name" reversed />
@@ -56,8 +56,6 @@ const AppDetail = () => {
                 <h1 className='text-2xl font-semibold'>Description</h1>
                 <p className='text-xl font-normal text-neutral-500'>{SingleApp.description}</p>
             </div>
-
-
         </div>
     );
 };
