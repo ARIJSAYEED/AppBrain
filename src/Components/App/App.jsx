@@ -21,10 +21,11 @@ const App = () => {
                 <div className='text-2xl font-semibold'>({searchedName.length}) Apps Found</div>
                 <div>
                     <input
-                        className='rounded-sm px-4 py-3 border-2'
+                        className='rounded-sm px-4 py-3 border-2 border-neutral-400'
                         onChange={e => setSearch(e.target.value)}
                         type="search"
                         value={search}
+                        placeholder='🔎 search Apps'
                     />
                 </div>
             </div>

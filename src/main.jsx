@@ -13,10 +13,10 @@ const router = createBrowserRouter([
     path: '/',
     Component: Root,
     children: [
-      { index: true, Component: Home, loader: () => fetch('data8.json') },
-      { path: 'App', Component: App, loader: () => fetch('data28.json') },
+      { index: true, Component: Home, loader: () => fetch('/data8.json') },
+      { path: 'App', Component: App, loader: () => fetch('/data28.json') },
       { path: 'Installation', Component: Installation },
-      { path: ':id', Component: AppDetail, loader: () => fetch('data28.json') },
+      { path: ':id', Component: AppDetail, loader: () => fetch('/data28.json') },
     ],
   },
 ])
